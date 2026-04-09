@@ -5,7 +5,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
 ![LLM](https://img.shields.io/badge/LLM-OpenAI-orange)
 ![Vector DB](https://img.shields.io/badge/VectorDB-Qdrant-purple)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
